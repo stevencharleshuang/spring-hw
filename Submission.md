@@ -19,7 +19,7 @@ class Bird extends Animal
 }
 ```
 
-![Inheritance I](/assets/Inheritance I.png)
+<img src="/assets/Inheritance I.png" alt="Inheritance 1" />
 
 ### Inheritance II
 
@@ -33,7 +33,7 @@ class Arithmetic {
 class Adder extends Arithmetic { }
 ```
 
-![Inheritance II](/assets/Inheritance II.png)
+<img src="/assets/Inheritance II.png" alt="Inheritance 2" />
 
 ### Interface
 
@@ -54,7 +54,7 @@ class MyCalculator implements AdvancedArithmetic {
 }
 ```
 
-![Interface](/assets/Interface.png)
+<img src="/assets/Interface.png" alt="Interface" />
 
 ### Method Overriding I
 
@@ -65,7 +65,7 @@ class MyCalculator implements AdvancedArithmetic {
     }
 ```
 
-![Method Overriding I](/assets/Method Overriding I.png)
+<img src="/assets/Method Overriding I.png" alt="Method Overriding 1" />
 
 ### Method Overriding II (Super Keyword)
 
@@ -73,7 +73,7 @@ class MyCalculator implements AdvancedArithmetic {
 String temp = super.define_me(); 
 ```
 
-![Method Overriding II](/assets/Method Overriding II.png)
+<img src="/assets/Method Overriding II.png" alt="Method Overriding 2" />
 
 
 
